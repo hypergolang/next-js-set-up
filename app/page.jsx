@@ -1,3 +1,3 @@
-export default function Page() {
-    return <h1>Hello, Next.js!</h1>
-}
+export default function Whatever() {
+    return <h1>Hi there, everything's working great!</h1>
+};
